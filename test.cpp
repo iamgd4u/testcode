@@ -13,5 +13,4 @@ int main(){
     int sum = add(a,b);
 
     cout<<sum;
-    
 }
